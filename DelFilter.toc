@@ -1,0 +1,6 @@
+## Interface: 11305
+## Title: DelFilter
+## SavedVariables: DelFiltered, DelReplaced, DelChannel
+core.lua
+
+
